@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://giulo25.github.io/product-preview-card-component/)
-- Live Site URL: [live site](https://github.com/Giulo25/product-preview-card-component)
+- Solution URL: [solution](https://github.com/Giulo25/product-preview-card-component)
+- Live Site URL: [live site](https://giulo25.github.io/product-preview-card-component/)
 
 ## Author
 
